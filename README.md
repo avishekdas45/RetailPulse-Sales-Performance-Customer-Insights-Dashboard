@@ -40,6 +40,20 @@ We used **Pandas** to clean the dataset before importing it into Power BI. Key s
 
 ---
 
+## 🔍 Insights to Highlight
+
+This project focused on answering key business questions using SQL, Python, and Power BI:
+
+- **Most/Least Profitable Regions or Categories**: Identified using total profit and profit margin calculations.
+- **Top Revenue-Generating Cities**: Pinpointed the cities that contribute the most to sales.
+- **Discount Impact on Profitability**: Analyzed whether discounts lead to higher volume or lower margins.
+- **Profit Trend Across Quarters**: Time-based trends helped highlight seasonal fluctuations and business cycles.
+- **Sales from Repeat Customers**: Measured customer loyalty by calculating the percentage of revenue from returning buyers.
+
+These insights supported strategic recommendations in dashboard and report design.
+
+---
+
 ## 🛠️ Power BI Features Used
 
 We used Power BI to transform, model, and visualize the data. Key Power BI concepts included:
