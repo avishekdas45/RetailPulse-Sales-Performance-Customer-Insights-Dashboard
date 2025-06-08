@@ -1,5 +1,3 @@
-# RetailPulse-Sales-Performance-Customer-Insights-Dashboard
-
 # 📊 RetailPulse – Sales Performance & Customer Insights Dashboard
 
 ## 📝 Overview
