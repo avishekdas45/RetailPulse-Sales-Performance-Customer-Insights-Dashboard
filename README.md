@@ -2,7 +2,7 @@
 
 ## 📝 Overview
 
-**RetailPulse** is an end-to-end data analytics project focused on understanding retail sales performance and customer behavior using Power BI and SQL. This project involves cleaning a real-world retail dataset, performing insightful analysis, and building a dynamic dashboard to support decision-making. The project was developed by **Anas Zaki** and **Avishek Das**.
+**RetailPulse** is an end-to-end data analytics project focused on understanding retail sales performance and customer behavior using Python, Power BI and SQL. This project involves cleaning a real-world retail dataset, performing insightful analysis, and building a dynamic dashboard to support decision-making. The project was developed by **Avishek Das** and **Anas Zaki** .
 
 ---
 
