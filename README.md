@@ -106,8 +106,7 @@ We also performed SQL queries using **MySQL** and connected it through Python. K
 ## 🔧 Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Anas-Zaki/RetailPulse-Sales-Performance-Customer-Insights-Dashboard.git
-   cd Scrape_quotes_universe
+   git clone https://github.com/avishekdas45/RetailPulse-Sales-Performance-Customer-Insights-Dashboard.git
    ```
 2. **Install required libraries:**
 - `Power-Bi`
